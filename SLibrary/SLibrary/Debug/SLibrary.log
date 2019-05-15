@@ -1,0 +1,13 @@
+﻿  BigNumFunc.cpp
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.h(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.h(3): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(133): error C2371: 'result': redefinition; different basic types
+  c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(126): note: see declaration of 'result'
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(148): error C2088: '[': illegal for class
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(151): error C2088: '[': illegal for class
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(156): error C2088: '[': illegal for class
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(162): error C2088: '[': illegal for class
+c:\users\dell blue\source\repos\slibrary\slibrary\bignumfunc.cpp(169): error C2088: '[': illegal for class
